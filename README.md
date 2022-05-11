@@ -19,4 +19,3 @@ You can also try the TouchTunes remote beta Jukebox app for the Flipper Zero.
 ![image](https://user-images.githubusercontent.com/164560/167544725-0ac1ffb2-f567-439c-9aa4-fb72ed98591d.png)
 
 
-[flipper-touchtunes-beta.dfu.zip](https://github.com/jimilinuxguy/flipperzero-touchtunes/files/8657507/flipper-touchtunes-beta.dfu.zip)
